@@ -1,4 +1,4 @@
-baseurl = "http://blog.zignd.dev/"
+baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
