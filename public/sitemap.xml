@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.zignd.dev/tags/concurrency/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.zignd.dev/posts/concurrent-iterations-go/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.zignd.dev/tags/go/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.zignd.dev/posts/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.zignd.dev/tags/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.zignd.dev/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.zignd.dev/categories/</loc>
+  </url>
+  
+</urlset>
